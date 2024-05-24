@@ -1,7 +1,7 @@
 ---
 title: "git_00"
-author: "Your Name here"
-date: "Year 2020"
+author: "Daniel Esteves"
+date: "Summer 2024"
 output: html_document
 ---
 
@@ -16,11 +16,29 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+The sun was shining on the sea,  
+      Shining with all his might:  
+He did his very best to make  
+      The billows smooth and bright —  
+And this was odd, because it was  
+      The middle of the night  
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+
+Before man came to blow it right  
+     The wind once blew itself untaught,  
+And did its loudest day and night  
+     In any rough place where it caught.  
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
+The sun was shining on the sea,  
+      Shining with all his might:  
+He did his very best to make  
+      The billows smooth and bright —  
+And this was odd, because it was  
+      The middle of the night.  
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
